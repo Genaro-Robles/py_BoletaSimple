@@ -2,6 +2,8 @@
 
 Boleta simple en la que se puede ingresar una cantidad de productos variables entre 1 y 10 
 
+Proyecto desarrollado durante el 3° Semestre
+
 Pantalla de inicio
 
 ![image](https://user-images.githubusercontent.com/50786070/174672791-02815422-6773-4041-9f68-bb5af477a1e6.png)
